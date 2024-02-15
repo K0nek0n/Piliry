@@ -1,6 +1,11 @@
 > [!IMPORTANT]
 > This small project is under development and it's not working yet
+
 # Piliry
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=K0nek0n_Piliry&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=K0nek0n_Piliry)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=K0nek0n_Piliry&metric=bugs)](https://sonarcloud.io/summary/new_code?id=K0nek0n_Piliry)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=K0nek0n_Piliry&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=K0nek0n_Piliry)
+
 A little project with plain html, css, js for a picture library, that uses a specific folder structure and json files for loading pictures and generating a library. It's as simple as it sounds :)
 
 ## Folder structure
